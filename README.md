@@ -19,3 +19,6 @@ Thanks to this site https://randomuser.me/ for generating random users with avat
 
 Happy Coding!
 
+
+
+[![Join the chat at https://gitter.im/wswebcreation/reactnativewhatsapp](https://badges.gitter.im/wswebcreation/reactnativewhatsapp.svg)](https://gitter.im/wswebcreation/reactnativewhatsapp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
